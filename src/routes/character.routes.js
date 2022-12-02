@@ -107,7 +107,7 @@ router.get("/", getCustomFigters);
  *                          $ref: '#/components/schemas/Character'
  */
 router.post("/create", createCustomFigter);
-route.patch("/mint/:id", minted);
+router.patch("/mint/:id", minted);
 router.get("/unmintedCharacters", getAllUnmintedCharacters);
 
 module.exports = router;
