@@ -1,0 +1,6 @@
+/*
+All the validations are to be writing in this directory.
+
+Current file would be deleted when reviewing.
+
+*/

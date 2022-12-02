@@ -1,0 +1,1 @@
+export const returning = (type,data)=> {type,data};
