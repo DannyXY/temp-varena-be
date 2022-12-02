@@ -26,6 +26,10 @@ const swaggerDefinition = {
       url: "https://api.varena.hng.tech/api/v1/",
       description: "Live server",
     },
+    {
+      url: "https://api-varena.onrender.com/api/v1/",
+      description: "Live server",
+    },
   ],
 };
 
